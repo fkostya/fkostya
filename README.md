@@ -5,5 +5,5 @@
 <div/>
   <br/>
 <div>
-  <img align="left" src="https://komarev.com/ghpvc/?username=fkostya&style=for-the-badge"  />
+  <img align="left" src="https://komarev.com/ghpvc/?username=fkostya&style=for-the-badge&color=151515"  />
 </div
